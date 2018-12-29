@@ -8,16 +8,16 @@
     <body bgcolor="silver">
         <form method="post" action="login.jsp">
             <center>
-            <table border="0" width="30%" cellpadding="3">
+            <table border="7" width="50%" cellpadding="20">
                 <thead>
                     <tr>
-                        <th colspan="2">Login Page</th>
+                        <th colspan="70">Login Page</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
                         <td>Username</td>
-                        <td><input type="text" name="userName" value="" /></td>
+                        <td><input type="text" name="username" value="" /></td>
                     </tr>
                     <tr>
                         <td>Password</td>
@@ -28,7 +28,7 @@
                         <td><input type="reset" value="Reset" /></td>
                     </tr>
                     <tr>
-                        <td colspan="2">New User <a href="register.jsp">Register Here</a></td>
+                        <td colspan="10">New User <a href="register.jsp">Register Here</a></td>
                     </tr>
                 </tbody>
             </table>

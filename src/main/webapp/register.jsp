@@ -8,7 +8,7 @@
     <body bgcolor="silver">
         <form method="post" action="userRegistration.jsp">
             <center>
-            <table border="1" width="30%" cellpadding="5">
+            <table border="7" width="50%" cellpadding="30">
                 <thead>
                     <tr>
                         <th colspan="2">Enter Information Here</th>
@@ -29,7 +29,7 @@
                     </tr>
                     <tr>
                         <td>User Name</td>
-                        <td><input type="text" name="userName" value="" /></td>
+                        <td><input type="text" name="username" value="" /></td>
                     </tr>
                     <tr>
                         <td>Password</td>

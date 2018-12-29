@@ -1,12 +1,16 @@
 <%
-    if ((session.getAttribute("userName") == null) || (session.getAttribute("userName") == "")) {
+    if ((session.getAttribute("username") == null) || (session.getAttribute("username") == ""))
+    {
 %>
-You are not logged in<br/>
-<a href="index.jsp">Please Login</a>
-<%} else {
+	You are not logged in<br/>
+	<a href="index.jsp">Please Login</a>
+<% 
+   }  
+   else 
+   {
 %>
-Welcome <%=session.getAttribute("userid")%>
-<a href='logout.jsp'>Log out</a>
+	Welcome <%=session.getAttribute("username")%>
+	<a href='logout.jsp'>Log out</a>
 <%
     }
 %>
