@@ -5,7 +5,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Registration</title>
     </head>
-    <body bgcolor="silver">
+    <body bgcolor="#ccffff">
         <form method="post" action="userRegistration.jsp">
             <center>
             <table border="7" width="50%" cellpadding="30">

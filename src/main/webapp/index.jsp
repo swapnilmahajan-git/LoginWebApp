@@ -3,26 +3,26 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Example</title>
+        <title>Login Form</title>
     </head>
-    <body bgcolor="silver">
+    <body bgcolor="#ccffff">
         <form method="post" action="login.jsp">
             <center>
             <table border="7" width="50%" cellpadding="20">
                 <thead>
                     <tr>
 			<center>
-                	<h1 style="color:blue">Welcome To Swapnil Mahajan Web-Page</h1>
-                	<b style="color:blue">Login Here</b><br>
+                	<h1 style="color:red">Welcome To Swapnil Mahajan Web-Page</h1>
+                	<h3 style="color:red">Login Here</h3><br><br>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Username</td>
+                        <td><h4 style="color:red">Username</h4></td>
                         <td><input type="text" name="username" value="" /></td>
                     </tr>
                     <tr>
-                        <td>Password</td>
+                        <td><h4 style="color:red">Password</h4></td>
                         <td><input type="password" name="password" value="" /></td>
                     </tr>
                     <tr>

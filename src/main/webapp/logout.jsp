@@ -1,5 +1,5 @@
 <html>
-	<body bgcolor="khaki">
+	<body bgcolor="#ccffff">
 
 	<%
             session.invalidate();
