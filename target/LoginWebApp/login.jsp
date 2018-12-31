@@ -12,7 +12,7 @@
 
     if (rs.next()) {
         session.setAttribute("username", username);
-        response.sendRedirect("index1.jsp");
+        response.sendRedirect("GIT.jsp");
     } else {
         out.println("Invalid password <a href='index.jsp'>try again</a>");
     }

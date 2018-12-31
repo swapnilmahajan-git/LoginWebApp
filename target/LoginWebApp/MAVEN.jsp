@@ -99,36 +99,49 @@ footer {
 <section>
   <nav>
     <ul>
-      <li><a href="index1.jsp">GIT</a></li>
+      <li><a href="GIT.jsp">GIT</a></li>
       <li>MAVEN</li>
-      <li><a href="#">JENKINS</a></li>
-      <li><a href="#">DOCKER</a></li>
-      <li><a href="#">CHEF</a></li>
-      <li><a href="#">KAFKA</a></li>
+      <li><a href="JENKINS.jsp">JENKINS</a></li>
+      <li><a href="DOCKER.jsp">DOCKER</a></li>
+      <li><a href="CHEF.jsp">CHEF</a></li>
+      <li><a href="KAFKA.jsp">KAFKA</a></li>
     </ul>
   </nav>
   
   <article>
     <h1>MAVEN</h1>
 	<P>1.What are the differences between ANT and Maven?</P>
-<P>2.How do you create a jar/war file in Maven?</P>
-<P>3.What is the  difference between mvn deploy and install?</P>
-<P>4.Can you explain Maven's lifecycle?</P>
-		- init
-		- validate
-		- compile
-		- test
-		- package
-		- install
-	[Give one line explanation about each phase during your interview]
-<P>5.What is Maven? Why we use Maven?</P>
-<P>6.While building the project, you get an error saying some jar file is missing. how do you add that?</P>
-<P>7. What is groupId, artifactId, and Version in Maven?</P>
-<P>8. What are the Maven co-ordinates?</P>
-<P>9. What are the mandatory attributes in pom.xml?</P>
-<P>10.What is the difference between 1.0-SNAPSHOT(SNAPSHOT) version and 1.0-RELEASE(RELEASE) version?</P>
-<P>11.What is the default naming convention of an artifacts(jar/war) in Maven?</P>
-<P>12.How do you generate a site in Maven?</P>
+	<P>2.How do you create a jar/war file in Maven?</P>
+	<P>3.What is the  difference between mvn deploy and install?</P>
+	<P>4.Can you explain Maven's lifecycle?</P>
+			- init
+			- validate
+			- compile
+			- test
+			- package
+			- install
+		[Give one line explanation about each phase during your interview]
+	<P>5.What is Maven? Why we use Maven?</P>
+	<P>6.While building the project, you get an error saying some jar file is missing. how do you add that?</P>
+	<P>7. What is groupId, artifactId, and Version in Maven?</P>
+	<P>8. What are the Maven co-ordinates?</P>
+	<P>9. What are the mandatory attributes in pom.xml?</P>
+	<P>10.What is the difference between 1.0-SNAPSHOT(SNAPSHOT) version and 1.0-RELEASE(RELEASE) version?</P>
+	<P>11.What is the default naming convention of an artifacts(jar/war) in Maven?</P>
+	<P>12.How do you generate a site in Maven?</P>
+	<P>13.)How do you run a clean build in Maven?</P>
+	<P>14.)how do you add a dependency in Maven pom.xml?</P>
+	<P>15.)what is a plugin?</P>
+	<P>16.)What is the default path of artifacts in local repository?</P>
+	<P>17.)Where maven stores the built artifacts?</P>
+	<P>18.)How do you create a project in the Maven?</P>
+	<P>19.)What are the different binary repositoris we have? Which one you are using for your project?</P>
+	<P>20.)How do you customize the name of your artifact(jar/war) in Maven?</P>
+	<P>21.)How do you change the name of built jar/war file in maven? what changes you need to do in pom.xml file?</P>
+	<P>22.)What do you mean by transitive dependency in Maven and can you explain how maven resolves it?</P>
+	<P>23.)What is the significance of scope parameter in dependency section?</P>
+	<P>24.)What are the different scope's we have in Maven?</P>
+
 
   </article>
 </section>

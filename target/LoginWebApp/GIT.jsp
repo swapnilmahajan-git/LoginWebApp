@@ -100,11 +100,11 @@ footer {
   <nav>
     <ul>
       <li>GIT</li>
-      <li><a href="index2.jsp">MAVEN</a></li>
-      <li><a href="#">JENKINS</a></li>
-      <li><a href="#">DOCKER</a></li>
-      <li><a href="#">CHEF</a></li>
-      <li><a href="#">KAFKA</a></li>
+      <li><a href="MAVEN.jsp">MAVEN</a></li>
+      <li><a href="JENKINS.jsp">JENKINS</a></li>
+      <li><a href="DOCKER.jsp">DOCKER</a></li>
+      <li><a href="CHEF.jsp">CHEF</a></li>
+      <li><a href="KAFKA.jsp">KAFKA</a></li>
     </ul>
   </nav>
   
@@ -130,6 +130,42 @@ footer {
 	<p>18.) What is SHA-1? How Git uses this?</p>
 	<p>19.)* I have a file modified in my Working directory. How do you show the content diff?</p>
 	<p>20.) How do you show the content diff of a file which is staged?</p>
+	<p>21.)What is the difference between branch and tag?</p>
+	<p>22.)When do you create a branch and tag?</p> 
+	<p>23.)** What is your branching stratogy?Can you explain your release process/Stratogy?</p>
+	<p>24.)** What branching model you suggest for parellel development?</p>
+	<p>25.) Developer fixes a bug. How do you take the change to production?</p>
+	<p>25.)** Explain defferent branching models that you have worked-on.</p>
+	<p>26.) Did you work on merging the code in Git?</p>
+	<p>27.)* How do you merge the code in Git?</p>
+	<p>28.)* What is merge? What is conflict?</p>
+	<p>29.) When do we get conflict?</p>
+	<p>30.)* What is fast-forward merge in Git?</p>
+	<p>31.)* What is the difference between Merge and Rebase?</p>
+	<p>32.)* How do you resolve the conflit in Git?</p>
+	<p>34.)* What kind of conflicts you have seen?</p>
+	<p>35.) Who resolves the conflicts?</p>
+	<p>36.)How do you delete and rename a file in Git?</p> 
+	<p>37.) How do you create a branch and switch to that using single command?</p>
+	<p>38.) What is HEAD pointer in Git? Where Git store HEAD info.</p>
+	<p>39.) Can we store binary files in Git?</p>
+	<p>40.) Can skip the staging? How? what are the caveats?</p>
+	<p>41.)* How do you list files/folders modified as part of a commit?</p>
+	<p>42.)* How do you ignore: ex:
+		all files ending with .class
+		all files having alphanumeric
+		all log files but not build.log</p>
+	<p>43.) How do you add ignore list for all users?</p>
+	<p>44.)* What are the different files you ignore in your project?</p>
+	<p>45.) How to remove a committed change? Or can we remove?</p>
+	<p>46.) How do you lock the branch?</p>
+	<p>47.) How do you clone the code from a particular SHA?</p>
+	<p>48.) How do you restore a deleted file? Or previous changes of a file?</p>
+	<p>49.) How do you list the diff. of a file between two different branches.</p>
+	<p>50.) How do you list the changes which are going to be fetched?</p> 
+	<p>51.) What is Git Stash?</p>
+	<p>52.) How do you add a new remote to git? Or How do you attach your local repo with remote?</p>
+	<p>53.) What is git ls-tree?</p>
 
   </article>
 </section>
